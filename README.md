@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm pursuing my bachelor of Technology in Computer Science and Engineering at Indian Institute of technology Dhanbad.<br>
+I'm Web Developer and a Machine Learing enthusiast.
 
 
 ## 🌐 Socials:
